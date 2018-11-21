@@ -1,0 +1,24 @@
+{
+  "name": "react-use-portal",
+  "version": "0.0.1",
+  "description": "A simple react hook to render a component outside of its hierarchy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostclawz/react-use-portal.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "portal"
+  ],
+  "author": "Philip Kuperberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostclawz/react-use-portal/issues"
+  },
+  "homepage": "https://github.com/lostclawz/react-use-portal#readme"
+}

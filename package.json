@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/lostclawz/react-use-portal#readme",
   "dependencies": {
-    "react": "^16.7.0-alpha.2",
-    "react-dom": "^16.7.0-alpha.2"
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
   },
   "devDependencies": {
-    "eslint": "^5.11.0"
+    "eslint": "^5.13.0"
   }
 }
